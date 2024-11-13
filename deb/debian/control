@@ -1,0 +1,10 @@
+Package: mp4v2
+Version: %%VERSION%%
+Architecture: amd64
+Depends: 
+Section: misc
+Priority: optional
+Maintainer: Zvonimir Bužanić <zvonimir.buzanic@asseco-see.hr>
+Description: MP4V2 library.
+ Live mp4v2 library built from https://github.com/enzo1982/mp4v2
+ 
