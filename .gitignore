@@ -25,7 +25,7 @@ vstudio/build-*
 m4
 GNUmakefile
 GNUmakefile.in
-Makefile
+#Makefile
 mp4v2.pc
 include/mp4v2/project.h
 libplatform/config.h
